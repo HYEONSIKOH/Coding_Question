@@ -6,4 +6,7 @@ Language : <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&l
 
 현재 1일 1백준 실천중!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ks0689)](https://solved.ac/ks0689)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ks0689)](https://solved.ac/ks0689)</br></br></br>
+
+[Programmerss]</br>
+--
