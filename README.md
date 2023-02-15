@@ -1,5 +1,3 @@
-# Coding_Question
-
 [BaekJoon]
 --
 https://www.acmicpc.net/user/ks0689 </br>
