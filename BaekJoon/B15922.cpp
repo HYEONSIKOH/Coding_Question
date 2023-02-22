@@ -1,6 +1,6 @@
 // 백준 15922 [스위핑] 아우으 우아으이야!!
 #include <algorithm>
-#include <iostream>
+#include <iostream>핑
 #include <vector>
 using namespace std;
 
